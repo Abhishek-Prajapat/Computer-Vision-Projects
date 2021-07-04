@@ -1,5 +1,5 @@
 # Casava Leaf Disease Classification
-It is a image classification challenge where given a image you have to identify which class the given image belongs to. <br> <br>
+It is a image classification problem where given a image you have to identify which class the given image belongs to. <br> <br>
 
 The dataset can be downloaded from here - <a href="https://www.kaggle.com/c/cassava-leaf-disease-classification/data">here</a>
 
@@ -15,3 +15,6 @@ Vision Transformer | 224*224 | 0.9444
 The basic Exploratory Data Analysis can also be found in the codes.
 
 As my objective was to study these models and their implimentations and also due to lack of Computational resources I have limited the project to only a train and test set and hence no validation set has been used. All the finetuning has been done on the test set only.
+<hr>
+
+**Note**: The output of tensorboard is not rendered in the GitHub notebook and hence you can view the colab instance from <a href="https://drive.google.com/drive/folders/16Tv7OWz-zEfndVlSfLfJUNKuH_9Ec4MC?usp=sharing">here</a>.
